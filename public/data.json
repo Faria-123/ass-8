@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "UV Protection Sunglasses",
+        "brand": "SunShade",
+        "price": 15,
+        "rating": 4.7,
+        "stock": 10,
+        "description": "Stylish UV protection sunglasses perfect for summer outings.",
+        "image": "https://unsplash.com/photos/a-bunch-of-sunglasses-sitting-on-top-of-a-pink-surface-2ZAiEwjWZls",
+        "category": "Accessories"
+    },
+    {
+        "id": 2,
+        "name": "Beach Flip Flops",
+        "brand": "WaveWalk",
+        "price": 12,
+        "rating": 4.5,
+        "stock": 20,
+        "description": "Comfortable and lightweight flip flops for beach days.",
+        "image": "https://unsplash.com/photos/flip-flops-on-beach-sand-with-sunset-studio-background-and-artificial-clouds-summer-concept-3d-rendering-Kr0dI-7JXKQ",
+        "category": "Footwear"
+    },
+    {
+        "id": 3,
+        "name": "Summer Straw Hat",
+        "brand": "CoolBreeze",
+        "price": 18,
+        "rating": 4.6,
+        "stock": 15,
+        "description": "Wide-brim straw hat to keep you cool under the sun.",
+        "image": "https://unsplash.com/photos/a-close-up-of-a-person-holding-a-straw-hat-GgU_Bxpn3qo",
+        "category": "Accessories"
+    },
+    {
+        "id": 4,
+        "name": "Portable Water Bottle",
+        "brand": "HydroMax",
+        "price": 20,
+        "rating": 4.8,
+        "stock": 25,
+        "description": "Insulated water bottle that keeps drinks cold for hours.",
+        "image": "https://unsplash.com/photos/a-glass-water-bottle-sitting-on-top-of-a-rock-E-QRhYh81n8",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 5,
+        "name": "Cooling T-Shirt",
+        "brand": "FreshWear",
+        "price": 22,
+        "rating": 4.4,
+        "stock": 30,
+        "description": "Breathable cooling t-shirt ideal for hot summer weather.",
+        "image": "https://unsplash.com/photos/two-t-shirts-black-and-light-green-with-cotton-sprigs-EFCpLBQbxIU",
+        "category": "Clothing"
+    },
+    {
+        "id": 6,
+        "name": "Beach Volleyball",
+        "brand": "SunnyPlay",
+        "price": 14,
+        "rating": 4.3,
+        "stock": 12,
+        "description": "Durable beach volleyball for summer fun with friends.",
+        "image": "https://unsplash.com/photos/silhouette-of-people-playing-basketball-during-sunset-0NaQQsLWLkA",
+        "category": "Sports"
+    }
+]
