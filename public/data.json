@@ -29,7 +29,7 @@
         "rating": 4.8,
         "stock": 25,
         "description": "Insulated water bottle that keeps drinks cold for hours.",
-        "image": "https://images.unsplash.com/photo-1602143399827-bd95968c4800?auto=format&fit=crop&q=80&w=800",
+        "image": "https://images.unsplash.com/photo-1700506844206-ec2f9e2a65cd",
         "category": "Lifestyle"
     },
     {
@@ -40,7 +40,7 @@
         "rating": 4.6,
         "stock": 15,
         "description": "Wide-brim straw hat to keep you cool under the sun.",
-        "image": "https://images.unsplash.com/photo-1533441852530-9740523f5685?auto=format&fit=crop&q=80&w=800",
+        "image": "https://plus.unsplash.com/premium_photo-1720054284600-dae9aff0ead9",
         "category": "Accessories"
     },
     {
@@ -51,7 +51,7 @@
         "rating": 4.4,
         "stock": 30,
         "description": "Breathable cooling t-shirt ideal for hot summer weather.",
-        "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&q=80&w=800",
+        "image": "https://plus.unsplash.com/premium_photo-1718913936342-eaafff98834b",
         "category": "Clothing"
     },
     {
@@ -62,7 +62,7 @@
         "rating": 4.3,
         "stock": 12,
         "description": "Durable beach volleyball for summer fun with friends.",
-        "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?auto=format&fit=crop&q=80&w=800",
+        "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1",
         "category": "Sports"
     }
 ]
