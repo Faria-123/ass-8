@@ -23,17 +23,6 @@
     },
     {
         "id": 3,
-        "name": "Summer Straw Hat",
-        "brand": "CoolBreeze",
-        "price": 18,
-        "rating": 4.6,
-        "stock": 15,
-        "description": "Wide-brim straw hat to keep you cool under the sun.",
-        "image": "https://images.unsplash.com/photo-1533441852530-9740523f5685?auto=format&fit=crop&q=80&w=800",
-        "category": "Accessories"
-    },
-    {
-        "id": 4,
         "name": "Portable Water Bottle",
         "brand": "HydroMax",
         "price": 20,
@@ -42,6 +31,17 @@
         "description": "Insulated water bottle that keeps drinks cold for hours.",
         "image": "https://images.unsplash.com/photo-1602143399827-bd95968c4800?auto=format&fit=crop&q=80&w=800",
         "category": "Lifestyle"
+    },
+    {
+        "id": 4,
+        "name": "Summer Straw Hat",
+        "brand": "CoolBreeze",
+        "price": 18,
+        "rating": 4.6,
+        "stock": 15,
+        "description": "Wide-brim straw hat to keep you cool under the sun.",
+        "image": "https://images.unsplash.com/photo-1533441852530-9740523f5685?auto=format&fit=crop&q=80&w=800",
+        "category": "Accessories"
     },
     {
         "id": 5,
