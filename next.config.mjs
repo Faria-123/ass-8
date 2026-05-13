@@ -2,13 +2,16 @@
 const nextConfig = {
   /* config options here */
   reactCompiler: true,
+  // images: {
+  //   remotePatterns: [
+  //     {
+  //       hostname: 'unsplash.com'
+  //     }
+  //   ]
+  // }
   images: {
-    remotePatterns: [
-      {
-        hostname: 'unsplash.com'
-      }
-    ]
-  }
+    domains: ['images.unsplash.com'],
+  },
 };
 
 export default nextConfig;
